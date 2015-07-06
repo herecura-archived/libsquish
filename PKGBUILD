@@ -3,7 +3,7 @@
 
 pkgname=libsquish
 pkgver=1.11
-pkgrel=2
+pkgrel=3
 pkgdesc="DXT compression library"
 arch=('i686' 'x86_64')
 url="http://code.google.com/p/libsquish"
